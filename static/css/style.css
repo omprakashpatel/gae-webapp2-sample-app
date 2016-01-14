@@ -1,0 +1,19 @@
+/*mail stylesheet */
+
+.profile-pic {
+	height: 200px;
+}
+
+.post-pic {
+	max-height: 140px;
+	width: auto;
+}
+
+.post-video {
+	max-height: 140px;
+	width: auto;
+}
+
+.bg-gray {
+	background-color: #F7F7F7;
+}
